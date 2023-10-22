@@ -1,0 +1,52 @@
+* {
+    margin: 0,2%;
+    padding: 0,2%;
+    text-decoration: none;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: rgba(218, 203, 232, 0.667);
+    position: absolute;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#judul {
+    background-color: rgba(195, 166, 223, 0.829);
+    text-align: center;
+}
+
+img {
+    float: left; 
+    width: 20rem; 
+    height:20rem; 
+    margin: 2%;
+  }
+
+  table, th, td {
+    border: 1px solid; 
+    border-collapse: collapse;
+  }
+
+p span {
+    font-weight: bold;
+}
+
+.satu {
+    font-style: italic;
+}
+
+.dua {
+    font-style: italic;
+}
+
+.tiga {
+    font-style: italic;
+}
+
+footer{
+    align-items: center;
+        justify-content: center;
+        background-color: rgba(195, 166, 223, 0.829);
+}
